@@ -1,4 +1,4 @@
-# Audit 2 JSON
+# Audit2JSON
 This directory contains a script to convert auditd logs to json.The script can convert a single log line passed as an argument, or an entire log file.
 
 ### Setup
